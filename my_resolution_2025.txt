@@ -4,3 +4,7 @@ Resolusi 2025
 - membuat website portofolio
 - membuat website organisasi
 - membuat website kelas 
+
+
+Updates
+- menguasai git 
