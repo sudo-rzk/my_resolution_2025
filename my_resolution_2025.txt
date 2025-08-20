@@ -1,0 +1,6 @@
+Resolusi 2025
+- membuat aplikasi aktivitas individu (keuangan,olahraga,dll.)
+- membuat model AI sendiri
+- membuat website portofolio
+- membuat website organisasi
+- membuat website kelas 
