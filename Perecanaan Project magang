@@ -1,0 +1,30 @@
+16 September 2025
+
+1.MERENCANAKAN PROJECT BUAT IMPACT DI TEMPAT MAGANG :
+2.BERDASARKAN OBSERVASI DARI SETENGAH PERJALANAN, ADA POTENSIAL WEBSITE DAN AI :
+- E-Commerce : bakoelwireless.com
+KEKURANGAN :
+  - memakai tech stack php lama
+  - kurang optimal skala besar dan traffic besar 
+  - tools analytic mungkin bisa di perbaiki
+Potensi :
+   - ganti tech stack lebih modern --> tapi bukan tujuan web dev masih fokus ke bug hunter dan butuh waktu lama
+   - cari kerentanan di bakoelwireless.com
+
+- website Portofilo : axelbit.com & taurus.co.id
+KEKURANGAN :
+  - wordpress untuk skala menengah
+ Potensi :
+  - migrasi dari wordpress ke development --> fokus ke backend (cara kerja sistem) 
+  - cari kerentanan di axelbit.com & taurus.co.id
+
+FINAL PERENCANAAN di sisi WEBSITE :
+- cari kerentanan di 3 website itu
+- develop website Axelbit --> fokus ke backend(memahami sistem) lebih cepat dari pada membangun e-commerce
+
+
+PROJECT AI REALISTIS DI TEMPAT MAGANG :
+
+- INTERGRASI MODEL AI DI WEBSITE = MEMBUAT CHATBOT INTERACTIVE 
+
+
