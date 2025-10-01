@@ -18,13 +18,20 @@ KEKURANGAN :
   - migrasi dari wordpress ke development --> fokus ke backend (cara kerja sistem) 
   - cari kerentanan di axelbit.com & taurus.co.id
 
-FINAL PERENCANAAN di sisi WEBSITE :
+UPDATE 1 OCTOBER 2025
+
+FINAL PERENCANAAN di  WEBSITE  dan AI:
 - cari kerentanan di 3 website itu
-- develop website Axelbit --> fokus ke backend(memahami sistem) lebih cepat dari pada membangun e-commerce
+- membuat chatbot menggunakan berbagai model 
+  dinamakan Harvel AI
+  fitur dan kegunaan singkat = untuk kebutuhan kantor dari axelbit maupun taurus 
+  sistem regristrasi pake token unik atau Oauth2.0
+  sistem login pake passkey atau 2fa
+  Tech stack :
+  - frontend = boostrap -> cari template chatbot page
+  - backend = django  
 
 
-PROJECT AI REALISTIS DI TEMPAT MAGANG :
 
-- INTERGRASI MODEL AI DI WEBSITE = MEMBUAT CHATBOT INTERACTIVE 
 
 
