@@ -1,0 +1,13 @@
+Target desember 2025
+1. menyelesaikan HarvelAI Chatbot 
+    - mvp project web apps 
+    - workflow
+    - kemungkinan bisa dikembangkan readme.
+
+2. bikin web ui oftesa
+  - cuma frontend aja biar nggk terlalu beban
+
+3. memperbaiki vivo y12
+  - dijadikan nethunter mobile
+
+
